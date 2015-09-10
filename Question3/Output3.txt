@@ -1,0 +1,3 @@
+C:\Users\episl\Desktop>java Question3
+madamimadam
+It is a pallendrone
